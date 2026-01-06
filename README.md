@@ -1,1 +1,2 @@
-
+secured-storage-web Docs 🔒
+secured-storage-web is a user-friendly package designed to facilitate secure data storage across multiple mediums including local storage, session storage, cookies, and indexedDB. Leveraging encryption techniques, it ensures data security and mitigates common attacks. Additionally, it offers features for integrity checks to ensure data consistency and prevent corruption and compressing data and hashing, thereby enhancing both security and efficiency.
